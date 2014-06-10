@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B6387887-4F9D-4090-A8DB-7376838FC7D0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UI_gitHup</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>146B387D-131B-49F7-8743-0EC676B5A48A</key>
+		<string>https://github.com/WriteCodeChangeWorld/houDataBase.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UI_gitHup/UI_gitHup.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>146B387D-131B-49F7-8743-0EC676B5A48A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/WriteCodeChangeWorld/houDataBase.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>146B387D-131B-49F7-8743-0EC676B5A48A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>146B387D-131B-49F7-8743-0EC676B5A48A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>houDataBase</string>
+		</dict>
+	</array>
+</dict>
+</plist>
