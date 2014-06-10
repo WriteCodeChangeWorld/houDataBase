@@ -19,6 +19,7 @@
 		C212E8861946FBB900D9A22E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C212E86E1946FBB900D9A22E /* UIKit.framework */; };
 		C212E88E1946FBB900D9A22E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C212E88C1946FBB900D9A22E /* InfoPlist.strings */; };
 		C212E8901946FBB900D9A22E /* UI_gitHupTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C212E88F1946FBB900D9A22E /* UI_gitHupTests.m */; };
+		C212E89B1946FDAF00D9A22E /* RoorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C212E89A1946FDAF00D9A22E /* RoorViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,8 @@
 		C212E88B1946FBB900D9A22E /* UI_gitHupTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UI_gitHupTests-Info.plist"; sourceTree = "<group>"; };
 		C212E88D1946FBB900D9A22E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C212E88F1946FBB900D9A22E /* UI_gitHupTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UI_gitHupTests.m; sourceTree = "<group>"; };
+		C212E8991946FDAF00D9A22E /* RoorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RoorViewController.h; sourceTree = "<group>"; };
+		C212E89A1946FDAF00D9A22E /* RoorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RoorViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +112,8 @@
 			children = (
 				C212E8791946FBB900D9A22E /* AppDelegate.h */,
 				C212E87A1946FBB900D9A22E /* AppDelegate.m */,
+				C212E8991946FDAF00D9A22E /* RoorViewController.h */,
+				C212E89A1946FDAF00D9A22E /* RoorViewController.m */,
 				C212E87C1946FBB900D9A22E /* Images.xcassets */,
 				C212E8711946FBB900D9A22E /* Supporting Files */,
 			);
@@ -239,6 +244,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C212E89B1946FDAF00D9A22E /* RoorViewController.m in Sources */,
 				C212E87B1946FBB900D9A22E /* AppDelegate.m in Sources */,
 				C212E8771946FBB900D9A22E /* main.m in Sources */,
 			);
